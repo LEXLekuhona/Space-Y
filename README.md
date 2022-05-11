@@ -1,3 +1,2 @@
 # Space-Y
 ---
-### ✍️:Blog Post:
