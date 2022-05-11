@@ -1,7 +1,7 @@
 # LEX
-## Frontend-разработчик
+# Frontend-разработчик
 
-### Контактная информация:
+# Контактная информация:
 📞Телефон: +7-989-636-28-98
 <p align='left'>
    📫 E-mail: <a href='mailto:alex.malik4@icloud.com'>alex.malik4@icloud.com</a>
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-2CA5E0?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
 
-### Высшее образование:
+# Высшее образование:
 <p>
 <a href="https://sfedu.ru/" target="_blank">
 <img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="ЮФУ">
@@ -27,4 +27,4 @@
   * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
-***
+
