@@ -1,6 +1,6 @@
 # LEX
 ## Frontend-разработчик
-***
+
 ### Контактная информация:
 📞Телефон: +7-989-636-28-98
 <p align='left'>
@@ -12,7 +12,7 @@
 <a href="https://t.me/alex_git" target="_blank">
 <img src="https://img.shields.io/badge/%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-2CA5E0?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
-***
+
 ### Высшее образование:
 <p>
 <a href="https://sfedu.ru/" target="_blank">
@@ -25,10 +25,6 @@
 
 * Бакалавриат
   * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
-
-* Магистратура
-  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
-
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
 ***
